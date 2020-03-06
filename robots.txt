@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://vagaingoo.marianhlavac.cz/sitemap.xml
